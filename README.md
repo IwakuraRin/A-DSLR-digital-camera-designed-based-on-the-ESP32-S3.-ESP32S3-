@@ -1,2 +1,3 @@
-# A-DSLR-digital-camera-designed-based-on-the-ESP32-S3.-ESP32S3-
+# A-DSLR-digital-camera-designed-based-on-the-ESP32-S3.基于esp32s3设计的单反数码相机
 基于 ESP32-S3 自主开发的单反相机。采用 OV5640 裸传感器与 CS 卡口可换镜头方案，搭配反光镜与五棱镜光学取景结构。图形界面基于 LVGL 构建，运行于 2.4 寸 TFT 屏幕，支持拍摄参数设置、实时取景与照片预览。项目涵盖硬件设计、嵌入式、光学结构，是一套完整可运行的自制数码单反原型
+A self-developed DSLR camera based on the ESP32-S3.​ It utilizes a bare OV5640 sensor with a CS-mount interchangeable lens system, paired with a reflex mirror and pentaprism optical viewfinder structure. The graphical user interface is built on LVGL and runs on a 2.4-inch TFT display, supporting shooting parameter adjustment, live view, and photo preview. The project encompasses hardware design, embedded systems, and optical engineering, constituting a complete, fully functional homemade digital single-lens reflex prototype.
